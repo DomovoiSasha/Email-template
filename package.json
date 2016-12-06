@@ -1,0 +1,26 @@
+{
+  "name": "gusto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gulp": "./node_modules/.bin/gulp"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.2",
+    "del": "^2.2.2",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-debug": "^3.0.0",
+    "gulp-email-remove-unused-css": "^1.0.2",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-inline-css": "^3.1.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-remember": "^0.3.1",
+    "gulp-stylus": "^2.6.0",
+    "gulp-watch": "^4.3.11",
+    "inky": "^1.3.7"
+  },
+  "description": ""
+}
